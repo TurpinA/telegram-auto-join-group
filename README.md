@@ -17,3 +17,9 @@ Category is used for logging during the execution
 Registered is used to mark as :
 - X all group that are alaready joined, so don't need to join again.
 - DEAD all dead links
+
+# Requirement
+
+telethon
+pandas
+numpy
