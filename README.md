@@ -20,6 +20,6 @@ Registered is used to mark as :
 
 # Requirement
 
-telethon
-pandas
-numpy
+- telethon
+- pandas
+- numpy
